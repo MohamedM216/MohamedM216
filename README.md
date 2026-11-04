@@ -2,9 +2,9 @@
 
 I'm a Software Engineer from Egypt interested in backend, databases, systems programming, software architecture, and high-performance backend systems. I enjoy understanding how things work under the hood and building practical software around them.
 
-I've been contributing to projects including MariaDB, Pgagroal, Valhalla, and Consul.NET, building features, fixing bugs, working on performance improvements and much more... **[See my open source contributions](https://github.com/MohamedM216/contributions)**
+I've been contributing to projects including **MariaDB, Pgagroal, Valhalla, and Consul.NET**, building features, fixing bugs, working on performance improvements and much more... **[See my open source contributions](https://github.com/MohamedM216/contributions)**
 
-I'm currently reading Computer Systems: A Programmer's Perspective (CS:APP) book and writing notes as I go, along with working through the labs.
+I'm currently reading **Computer Systems: A Programmer's Perspective** (CS:APP) book and writing notes as I go, along with working through the labs.
 
 - **[My CS:APP notes on Hashnode](https://csapp.hashnode.dev/series/csapp)**
 - **[My CS:APP lab solutions](https://github.com/MohamedM216/csapp-book-labs)**
